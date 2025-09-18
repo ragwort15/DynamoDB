@@ -7,6 +7,10 @@ created a new api
 Deployed the API and invoked the URL
 <img width="1885" height="856" alt="image" src="https://github.com/user-attachments/assets/b195f7e0-f057-4948-b9d6-0f71425fb858" />
 
+Used Postman to execute a POST query:
+<img width="1627" height="982" alt="image" src="https://github.com/user-attachments/assets/caae68af-35ef-461e-a610-897f0f76439b" />
+
+
 
 
 Reflection: While doing this assingment I learned about the DynamoDB table and lambda function. I learnt to write a lambda function with the CRUD operations. (GET, PUT, POST , DELETE). However I faced some challeges while sending the GET request due to permissions issue.
