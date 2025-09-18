@@ -10,6 +10,10 @@ Deployed the API and invoked the URL
 Used Postman to execute a POST query:
 <img width="1627" height="982" alt="image" src="https://github.com/user-attachments/assets/caae68af-35ef-461e-a610-897f0f76439b" />
 
+Deployed the GET API request
+<img width="1770" height="810" alt="image" src="https://github.com/user-attachments/assets/235daca4-3407-4638-879f-d8b3b93a9321" />
+
+
 
 
 
