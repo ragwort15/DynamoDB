@@ -4,6 +4,10 @@
 created a new api 
 <img width="1893" height="743" alt="image" src="https://github.com/user-attachments/assets/3b84b3f6-8edb-4368-9c46-6f8c97885ee5" />
 
+Deployed the API and invoked the URL
+<img width="1885" height="856" alt="image" src="https://github.com/user-attachments/assets/b195f7e0-f057-4948-b9d6-0f71425fb858" />
+
+
 
 Reflection: While doing this assingment I learned about the DynamoDB table and lambda function. I learnt to write a lambda function with the CRUD operations. (GET, PUT, POST , DELETE). However I faced some challeges while sending the GET request due to permissions issue.
 Also it was challenging to create a lambda functions with all the CRUD opeartions.
